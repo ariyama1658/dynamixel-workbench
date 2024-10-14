@@ -1,0 +1,10 @@
+pan:
+  ID: 1
+  Return_Delay_Time: 0
+  Operating_Mode: 3  
+tilt:
+  ID: 2
+  Return_Delay_Time: 0
+    Operating_Mode: 3  
+
+
